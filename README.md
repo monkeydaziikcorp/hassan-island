@@ -1,4 +1,4 @@
-# Hassan Island par !HassanK#6666
+# Hassan Island par HASH.lua
 
 # Description
 
